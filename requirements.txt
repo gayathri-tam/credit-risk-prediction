@@ -1,0 +1,20 @@
+# Core
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+
+# ML & Explainability
+shap>=0.42.0
+
+# Web app (pin Streamlit to avoid JS compatibility / white-screen issues)
+streamlit==1.28.2
+plotly>=5.15.0
+
+# Visualization & Gradient Boosting Models
+matplotlib>=3.7.0
+seaborn>=0.12.0
+xgboost>=1.7.0
+lightgbm>=4.0.0
+
+# Utilities
+joblib>=1.2.0
